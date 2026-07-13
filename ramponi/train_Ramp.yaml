@@ -1,0 +1,6 @@
+path : ..\\ramponi\\label\\Immagini\\training\\images
+train : train
+val : val
+test : test
+names:
+  0 : Rampone

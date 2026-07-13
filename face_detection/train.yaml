@@ -1,0 +1,10 @@
+path : ..\\maniviso\\immagini_acquisite\\training\\images
+train : train
+val : val
+test : test
+names:
+  0 : Mano_Dx
+  1 : Occhi
+  2 : Naso
+  3 : Barba
+  4 : Mano_Sx
